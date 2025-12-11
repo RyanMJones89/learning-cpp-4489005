@@ -10,6 +10,11 @@
       "taskLabel": "task-CodeDemo",
       "appliesTo": "src/Ch01/01_02b/CodeDemo.cpp",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-CodeDemo",
+      "appliesTo": "src/Ch02/02_03b/CodeDemo.cpp",
+      "type": "launch"
     }
   ]
 }

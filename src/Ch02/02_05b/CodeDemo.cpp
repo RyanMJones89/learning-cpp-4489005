@@ -6,7 +6,22 @@
 #include <typeinfo>
 
 int main(){
-    
+    auto a = 8;
+    auto b = 12345678901;
+    auto c = 3.14f;
+    auto d = 3.14;
+    auto e = true;
+    auto f = 'd';
+    auto g = "C++ rocks!";
+
+    std::cout << "The type of a is " << typeid(a).name() << std::endl;  // Shows int
+    std::cout << "The type of b is " << typeid(b).name() << std::endl;  // Shows long
+    std::cout << "The type of c is " << typeid(c).name() << std::endl;  // Shows float
+    std::cout << "The type of d is " << typeid(d).name() << std::endl;  // Shows double
+    std::cout << "The type of e is " << typeid(e).name() << std::endl;  // Shows bool
+    std::cout << "The type of f is " << typeid(f).name() << std::endl;  // Shows char
+    std::cout << "The type of g is " << typeid(g).name() << std::endl;  // Shows PKc (string)
+
     std::cout << std::endl << std::endl;
     return (0);
 }
