@@ -4,9 +4,11 @@
 
 #include <iostream>
 
-#define AGE_LENGTH 4
+// #define AGE_LENGTH 4
 
 int main(){
+    const int AGE_LENGTH = 4;
+
     int age[AGE_LENGTH];
     float temperature[] = { 31.5, 32.7, 38.9 };
 
@@ -15,6 +17,7 @@ int main(){
     age[2] = 19;
     age[3] = 19;
 
+    std::cout << "The Age array has " << AGE_LENGTH << " elements" << std::endl;
     std::cout << "Age[0] = " << age[0] << std::endl;
     std::cout << "Age[1] = " << age[1] << std::endl;
     std::cout << "Age[2] = " << age[2] << std::endl;
