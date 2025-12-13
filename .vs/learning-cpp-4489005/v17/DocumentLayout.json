@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ryanm\\source\\repos\\learning-cpp-4489005\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryanm\\source\\repos\\learning-cpp-4489005\\src\\Ch02\\02_06b\\CodeDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Ch02\\02_06b\\CodeDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryanm\\source\\repos\\learning-cpp-4489005\\src\\Ch03\\03_03b\\CodeDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Ch03\\03_03b\\CodeDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,21 +25,21 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CodeDemo.cpp",
-              "DocumentMoniker": "C:\\Users\\ryanm\\source\\repos\\learning-cpp-4489005\\src\\Ch02\\02_06b\\CodeDemo.cpp",
-              "RelativeDocumentMoniker": "src\\Ch02\\02_06b\\CodeDemo.cpp",
-              "ToolTip": "C:\\Users\\ryanm\\source\\repos\\learning-cpp-4489005\\src\\Ch02\\02_06b\\CodeDemo.cpp",
-              "RelativeToolTip": "src\\Ch02\\02_06b\\CodeDemo.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ryanm\\source\\repos\\learning-cpp-4489005\\src\\Ch03\\03_03b\\CodeDemo.cpp",
+              "RelativeDocumentMoniker": "src\\Ch03\\03_03b\\CodeDemo.cpp",
+              "ToolTip": "C:\\Users\\ryanm\\source\\repos\\learning-cpp-4489005\\src\\Ch03\\03_03b\\CodeDemo.cpp",
+              "RelativeToolTip": "src\\Ch03\\03_03b\\CodeDemo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-11T02:21:57.309Z",
+              "WhenOpened": "2025-12-13T22:55:08.775Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
